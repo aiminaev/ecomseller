@@ -1,0 +1,21 @@
+product_name:
+  css: h1
+  type: Text
+
+product_img:
+  css: ._3Wp6V
+  type: Attribute
+  attribute: src
+
+product_description:
+  css: li._3QeFr
+  type: Text
+  multiple: true
+  children:
+      product_desc_heading:
+        css: span._3GNhN 
+        format: YandexDescriptionHeadingFormatter
+        type: Text
+      product_desc_value:
+        css: span._1AZXk
+        type: Text

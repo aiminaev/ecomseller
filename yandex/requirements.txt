@@ -1,0 +1,3 @@
+itemadapter==0.7.0
+Scrapy==2.6.2
+selectorlib==0.16.0
