@@ -32,4 +32,4 @@ cd yandex
 pip install -r requirements.txt
 scrapy crawl YandexMarketSpider
 ```
-4. Данные сохранятся в файле yandex.json
+3. Данные сохранятся в файле yandex.json
